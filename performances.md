@@ -2,7 +2,7 @@
 
 - Set PHP memory limit to at least 512MB -> 1024MB is best
 - Cache
-    Enabling Memcached improves frontend performances but can lead to slow backend response time. Use carefully.
+    - Enabling Memcached improves frontend performances but can lead to slow backend response time. Use carefully.
 - Put all JS and CSS assets in autoload folders ans enable smartcache
 - Use a CDN to serve static files. Implementation is trivial.
 
