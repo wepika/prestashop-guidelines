@@ -2,4 +2,4 @@
 Gather some information on our day to day work on Prestashop
 
 ##Summary
-   - Performances
+   - <a href="https://github.com/wepika/prestashop-guidelines/blob/master/performances.md">Performances</a>
