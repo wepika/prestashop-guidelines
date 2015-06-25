@@ -1,4 +1,4 @@
-#Prestashop performances optimsations check-list
+#Prestashop performances optimisations check-list
 
 - Set PHP memory limit to at least 512MB -> 1024MB is best
 - Cache
